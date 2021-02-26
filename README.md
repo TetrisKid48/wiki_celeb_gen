@@ -1,7 +1,7 @@
 # wiki_celeb_gen
 Some python scripts that will scrape Wikipedia for the first sentence of a bunch of pages in the "Living people" category, then use that data to train an AI!
 # Usage
-Note: This has only been tested on Windows 10.
+Note: This has only been tested on Windows 10, and some files may be missing from this repo as it is still a work in progress.
 Uses Python 3.9.2
 
 First, download all of the code.
