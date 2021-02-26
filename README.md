@@ -8,7 +8,7 @@ First, download and extract the zip file of this repo. Install textgenrnn using 
 `pip3 install textgenrnn`  
 Run `generate.py` to use the weights (.hdf5 file) already in the repo.  
 
-If the weights are not in this repo as you read this, or if you want to train extra, run `train.py`.  
+If the weights are not in this repo as you read this, run `train.py`.  
 If you want to gather the input.txt yourself, install `selenium` and `wikipedia` using pip, then run `wikipedia-scrape.py`.  
 
 # Some Information
