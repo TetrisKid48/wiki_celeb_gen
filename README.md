@@ -4,14 +4,13 @@ Some python scripts that will scrape Wikipedia for the first sentence of a bunch
 Note: This has only been tested on Windows 10, and some files may be missing from this repo as it is still a work in progress.  
 This repo uses Python 3.9.2
 
-First, download all of the code.
-Install textgenrnn using pip:  
+First, download and extract the zip file of this repo. Install textgenrnn using pip:    
 `pip3 install textgenrnn`  
 Run `generate.py` to use the weights (.hdf5 file) already in the repo.  
-If the weights are not in the textgenrnn folder of the repo as you read this, run `train.py`.  
+If the weights are not in the textgenrnn folder of the repo as you read this, or if you want to train extra, run `train.py`.  
 
 If you want to gather the input.txt yourself, install `selenium` and `wikipedia` using pip, then run `wikipedia-scrape.py`.  
-Always make sure that the path in `wikipedia-scrape.py` will save `input.txt` to the same folder as `train.py` before running it.
+Always make sure that the path in line 6 of `wikipedia-scrape.py` will save `input.txt` to the same folder as `train.py` before running it.
 
 # Some Information
 `wikipedia-scrape.py` gathers the training data from Wikipedia and puts it into an `input.txt` file. It requires the libraries `wikipedia` and `selenium` to work.
