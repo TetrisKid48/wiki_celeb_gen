@@ -3,9 +3,8 @@ import re
 import urllib.request
 from selenium import webdriver
 
-textfile = open(r'C:\Miscellaneous\Coding\Python\WikipediaProject\textgenrnn\input.txt', 'w', encoding="utf-8")
+textfile = open('input.txt', 'w', encoding="utf-8")
 # sentences are saved to input.txt
-# change the file path to work with your setup before running
 
 personlist = []
 listlen = 0
