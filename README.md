@@ -7,15 +7,15 @@ This repo uses Python 3.9.2
 First, download and extract the zip file of this repo. Install textgenrnn using pip:    
 `pip3 install textgenrnn`  
 Run `generate.py` to use the weights (.hdf5 file) already in the repo.  
-If the weights are not in the textgenrnn folder of the repo as you read this, or if you want to train extra, run `train.py`.  
 
+If the weights are not in this repo as you read this, or if you want to train extra, run `train.py`.  
 If you want to gather the input.txt yourself, install `selenium` and `wikipedia` using pip, then run `wikipedia-scrape.py`.  
-Always make sure that the path in line 6 of `wikipedia-scrape.py` will save `input.txt` to the same folder as `train.py` before running it.
 
 # Some Information
 `wikipedia-scrape.py` gathers the training data from Wikipedia and puts it into an `input.txt` file. It requires the libraries `wikipedia` and `selenium` to work.
 I've only tested using selenium with the Chrome drivers.  
-`train.py` and `generate.py` require the library `textgenrnn` to work. More info here: https://github.com/minimaxir/textgenrnn  
+`train.py` and `generate.py` require the library `textgenrnn` to work. More info here:  
+https://github.com/minimaxir/textgenrnn  
   
 Other sources I used:  
 https://pypi.org/project/wikipedia/    
