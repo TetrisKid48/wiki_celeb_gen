@@ -2,7 +2,7 @@
 Some Python scripts that will scrape Wikipedia for the first sentence of a bunch of pages in the "Living people" category, then use that data to train an AI!  
 This is just a project I started for fun, and I just recently learned how to use Python. I hope you enjoy the outcome!
 
-#Example Output
+# Example Output
 (No output has been generated yet, because Tensorflow for Python 3.9 is currently non-existent!)
 
 # Usage
