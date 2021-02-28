@@ -1,5 +1,5 @@
 # wiki_celeb_gen
-A Python script that will scrape Wikipedia for the first sentence of a bunch of pages in the "Living people" category, and another that will generate new ones using an RNN!
+A Python script that will scrape Wikipedia for the first sentence of a bunch of pages in the "Living people" category, and train an RNN on that data!
 This is just a project I started for fun, and I just recently learned how to use Python. I hope you enjoy the outcome!
 
 # Example Output
