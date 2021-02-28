@@ -3,7 +3,7 @@ A Python script that will scrape Wikipedia for the first sentence of a bunch of 
 This is just a project I started for fun, and I just recently learned how to use Python. I hope you enjoy the outcome!
 
 # Example Output
-Ian Abdullah Mohammad Al-Dahin (Russian: Александр Викторович Кудров; born 19 June 1988) is a Russian football player who plays for Al-Merseler in the Victorian Football League (VFL).  
+Robert Ross de Michael Courhs Jackson, is a British writer and politician.   
   
 Andreas Tran (born 23 June 1967) is a Norwegian artist, born in Longon, Mexico) is a retired Indian politician of the Catholic Church of the County Assembly of Jensers of Commond FC surgery.  
   
