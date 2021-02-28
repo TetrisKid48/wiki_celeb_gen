@@ -3,6 +3,8 @@ A Python script that will scrape Wikipedia for the first sentence of a bunch of 
 This is just a project I started for fun, and I just recently learned how to use Python. I hope you enjoy the outcome!
 
 # Example Output
+Ian Abdullah Mohammad Al-Dahin (Russian: Александр Викторович Кудров; born 19 June 1988) is a Russian football player who plays for Al-Merseler in the Victorian Football League (VFL).  
+  
 Andreas Tran (born 23 June 1967) is a Norwegian artist, born in Longon, Mexico) is a retired Indian politician of the Catholic Church of the County Assembly of Jensers of Commond FC surgery.  
   
 Luis Alband (born 2 April 1988) is a Spanish footballer who plays for Collinghaine from 1983 to 1993.  
@@ -25,7 +27,7 @@ Choose one of the two options below to generate sentences like the examples abov
 ## Option 1: Google Collab
 Go to the link [here](https://colab.research.google.com/drive/1B4QnWmTSI1FrlDvvBWcVyV4vsJ180R4Y#scrollTo=-fxL77nvAMAX&line=1&uniqifier=1).  
 (Credit to [minimaxir](https://github.com/minimaxir) for the original code and Google Collab template.)  
-Run the cell to get a text file of generated output! This may take a while.
+Run the cell to get a text file of generated output (a wiki_celeb_gen_gentext file.) This may take a while.
 
 ## Option 2: generate.py
 ### Warning: This method is currently a work in progress, and may not work. These scripts have only been tested on Windows 10 with Python 3.9.2.
