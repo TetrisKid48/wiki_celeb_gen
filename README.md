@@ -3,11 +3,13 @@ A Python script that will scrape Wikipedia for the first sentence of a bunch of 
 This is just a project I started for fun, and I just recently learned how to use Python. I hope you enjoy the outcome!
 
 # Example Output
-Andrew Trown is an Australian politician who is a member of the National Football League for the Montreal Church of the National Football League for the Games in the Australian Football League (AFL).  
-  
 Andreas Tran (born 23 June 1967) is a Norwegian artist, born in Longon, Mexico) is a retired Indian politician of the Catholic Church of the County Assembly of Jensers of Commond FC surgery.  
   
 Luis Alband (born 2 April 1988) is a Spanish footballer who plays for Collinghaine from 1983 to 1993.  
+  
+Christopher Bonta  is an international basketball player who plays as a Midfielder for Plademporia.  
+  
+James Daversock (born 7 December 1966) is an English rugby league footballer, manager in the American Football League (VFL).
   
 Alexander Scillin (born 1972) is a Canadian politician and a member of the National Assembly of the University of San Durging and the American Second since the 1992 Summer Olympics.  
 
