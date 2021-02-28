@@ -25,7 +25,7 @@ Choose one of the two options below to generate sentences like the examples abov
 ## Option 1: Google Collab
 Go to the link [here](https://colab.research.google.com/drive/1B4QnWmTSI1FrlDvvBWcVyV4vsJ180R4Y#scrollTo=-fxL77nvAMAX&line=1&uniqifier=1).  
 (Credit to [minimaxir](https://github.com/minimaxir) for the original code and Google Collab template.)  
-Run the cell to get a text file of generated output!
+Run the cell to get a text file of generated output! This may take a while.
 
 ## Option 2: generate.py
 ### Warning: This method is currently a work in progress, and may not work. These scripts have only been tested on Windows 10 with Python 3.9.2.
@@ -44,4 +44,4 @@ Important links and sources:
 https://pypi.org/project/wikipedia/  
 https://pypi.org/project/selenium/  
 https://github.com/minimaxir/textgenrnn  
-https://pypi.org/project/tf-nightly/  
+https://pypi.org/project/tf-nightly/
