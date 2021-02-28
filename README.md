@@ -24,7 +24,7 @@ Choose one of the two options below to generate sentences like the examples abov
 
 ## Option 1: Google Collab
 Go to the link [here](https://colab.research.google.com/drive/1B4QnWmTSI1FrlDvvBWcVyV4vsJ180R4Y#scrollTo=-fxL77nvAMAX&line=1&uniqifier=1).  
-(Credit to [minimaxir](https://github.com/minimaxir) for the original code and Google Collab template.)
+(Credit to [minimaxir](https://github.com/minimaxir) for the original code and Google Collab template.)  
 Run the cell to get a text file of generated output!
 
 ## Option 2: generate.py
@@ -32,7 +32,7 @@ Run the cell to get a text file of generated output!
 First, download and extract the zip file of this repo. Install textgenrnn using pip:    
 `pip3 install textgenrnn`  
 Also install the version of tensorflow or tf-nightly from PyPi that is compatible with your version of Python.  
-Run `generate.py` to generate a `textgenrnn_text.txt` file with tons of AI output sentences.
+Run `generate.py` to generate a `textgenrnn_text.txt` file with AI output sentences.
   
 If you want to gather the input.txt yourself (which I don't recommend doing), install `wikipedia` and `selenium` using pip, install the Chrome drivers for your version of Chrome from [the selenium PyPi page](https://pypi.org/project/selenium/), then run `wikipedia-scrape.py`.  
 
