@@ -25,7 +25,7 @@ Dan Hlojon is an American professional who has worked as the extroander, thrower
 Choose one of the two options below to generate sentences like the examples above.
 
 ## Option 1: Google Collab
-Go to the link [here](https://colab.research.google.com/drive/1B4QnWmTSI1FrlDvvBWcVyV4vsJ180R4Y#scrollTo=-fxL77nvAMAX&line=1&uniqifier=1).  
+Go to the link [here](https://colab.research.google.com/drive/1B4QnWmTSI1FrlDvvBWcVyV4vsJ180R4Y#scrollTo=RTa6zf3e_9gV).  
 (Credit to [minimaxir](https://github.com/minimaxir) for the original code and Google Collab template.)  
 Run the cell to get a text file of generated output (a wiki_celeb_gen_gentext file.) This may take a while.
 
